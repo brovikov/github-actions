@@ -1,3 +1,3 @@
 # JS Fastify Blog
 
-![example workflow](https://github.com/brovikov/github-actions/actions/workflows/workflows.yml/badge.svg)
+![example workflow](https://github.com/brovikov/github-actions/actions/workflows/workflow.yml/badge.svg)
